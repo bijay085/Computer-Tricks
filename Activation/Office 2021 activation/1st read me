@@ -1,0 +1,47 @@
+	STEPS TO DOWNLOAD AND ACTIVATE OFFICE 2021 FOR FREE.
+	I know the steps are too long because all steps are explained in detailed way.
+
+		(--------FIRST PART--------)
+Firstly download the office 2021 from official website :
+office customization tool (1st website) then fill up the info :
+select "office ltsc professional plus 2021 volume license. 
+Leave everything like deafult except "uninstall any msi version : keep it disable".
+After fill up all info, click on export.
+
+		(--------SECOND PART--------)	
+Then search for office deployment tool :
+Download.
+
+		(--------THIRD PART--------)
+Create a folder "Office 2021" in desktop.
+Cut the "configuration file" and paste into "office 2021 folder"
+
+		(--------fOURTH PART--------)
+Run "office deployment tool" as adminstrator by right clicking.
+Accept all .
+Select the "download" folder not "Office 2021".
+Cut the "setup.exe" and paste to "Office 2021" folder.
+
+		(--------FIFTH PART--------)
+Open "cmd" as administrator.
+Copy the full location of "Office 2021" folder and paste it in cmd with "cd" then enter. (example : cd C:\Users\lucifer\Desktop\Office 2021)
+type "  setup /configure configuration.xml  " enter.
+Wait till full installation , minimize the cmd don't close cmd till installation.
+After downloading close all app.
+
+		(--------LAST PART--------)
+Turn off the real time protection.
+Go to desktop.
+Save the 2nd read me file saved in same repo with name " Activation.cmd" file.
+Cut it to desktop.
+Run it as administrator.
+Boom all done.
+
+(--------If your are not able to download "Activaton.cmd" file--------)
+Download "Activation.tx" file and save as it in desktop as "Activation.cmd".
+Run it as administrator.
+
+Done.
+
+
+
