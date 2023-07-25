@@ -1,0 +1,12 @@
+Insert all the command one by one in "run" :
+to open run : window key + r.
+
+(--------FIRST COMMAND--------)
+"temp"
+Open the run, enter "temp" , then hit enter,
+select all then delete .
+
+Repeat the same process with these :
+%temp%
+prefetch
+cleanmgr
