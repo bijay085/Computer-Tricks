@@ -1,0 +1,3 @@
+irm https://get.activated.win | iex
+
+Mostly check all code which it run are safe no virus or malware or miner.
